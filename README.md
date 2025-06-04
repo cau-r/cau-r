@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/cau-r/cau-r/output/snake.svg)
 ###
 <!--
 **cau-r/cau-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
