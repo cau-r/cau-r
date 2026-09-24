@@ -19,6 +19,10 @@ Estudante de Engenharia de Software na UCSal, atualmente no 5º semestre. Tenho 
 
 Evoluir como desenvolvedor de software, criando aplicações bem estruturadas e úteis enquanto aprofundo meus conhecimentos em Java e boas práticas de programação.
 
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/marciovferreira/)
+
 ## Minhas contribuições
 
 ![Animação de cobrinha das contribuições](https://raw.githubusercontent.com/cau-r/cau-r/output/github-contribution-grid-snake-dark.svg)
